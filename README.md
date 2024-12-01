@@ -1,3 +1,3 @@
 ## Introduction Javascript ES6
 
-<h2>jsES^</h2>
+<h2>jsES6</h2>
